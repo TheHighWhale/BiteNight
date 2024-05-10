@@ -1394,3 +1394,8 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.10-11.28.46:285][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.05.10-11.29.03:739][324]LogSlate: Window 'Plugins' being destroyed
 [2024.05.10-11.29.03:750][324]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2024.05.10-11.30.33:396][957]LogDerivedDataCache: C:/Users/chris/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.101 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 595 files in 1018 folders with total size 69 MiB.
+[2024.05.10-11.33.12:770][547]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.10-11.33.12:780][547]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.10-11.33.13:724][637]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.10-11.34.23:222][430]LogSlate: Window 'Revision Control Login' being destroyed
